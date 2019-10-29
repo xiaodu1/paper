@@ -1,0 +1,2 @@
+算法整体框架
+1. Region proposals。通过Selective Search的方法，在原图上生成一系列大小不一，比例不一的Region proposal，对于每张图片都大约生成2000个建议窗口。同时由于Region
